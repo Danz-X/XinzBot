@@ -187,14 +187,14 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├────────────────────
 ╞═══ 《 *THANKS TO* 》 ═══
 ├────────────────────
-├≽ *Xinz-Team*
-├≽ *Aqulzz*
-├≽ *Nafiz*
-├≽ *Y-DhyZx*
-├≽ *Ramlan ID*
-├≽ *X-MrG3P5*
-├≽ *Nanda*
-├≽ *Juwen*
+├≽ *Raditz*
+├≽ *Rehan*
+├≽ *Fahmi-X*
+├≽ *Pancul*
+├≽ *Grabers*
+├≽ *ItzDraftKunz*
+├≽ *Rafli*
+├≽ *Vito*
 ├≽ *Adiwajshing/Baileys*
 ╘═══ 《 *By ${ownerName}* 》 ═══`
 }
